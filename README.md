@@ -1,7 +1,6 @@
 # Hats/Avatars for Figura
 This repo only contains hats or avatars for the mod figura
 NOTHING ELSE
-Note: i do not own the rights or copyright of the mod figura 
 
 Commission Status: if i ever do commissions they WILL be private to only be used by the commissioner and not released to the public.
 
@@ -12,3 +11,6 @@ Download Figura: https://www.curseforge.com/minecraft/mc-mods/figura or from htt
 once installed, run the game to for the the mods to create their respective files
 Then go to "{YourModpackHere}/figura/avatars/"
 and drop the zip into the folder, No need to unzip unless you want to modify the hats/Avatars
+
+
+# Note: i do not own the rights or copyright of the mod figura nor do i permit the stuff i make to be used in content that violates Minecraft's Eula
