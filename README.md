@@ -4,7 +4,7 @@ NOTHING ELSE
 
 Commission Status: if i ever do commissions they WILL be private to only be used by the commissioner and not released to the public.
 
-How to install the hats 
+How to install the Hats / Avatars 
 -----------------------
 
 Download Figura: https://www.curseforge.com/minecraft/mc-mods/figura or from https://modrinth.com/mod/figura/versions
